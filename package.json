@@ -1,7 +1,7 @@
 {
   "name": "styled-lib",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -10,7 +10,8 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.4.0",
     "styled-components": "^5.0.1",
-    "styled-icons": "^9.4.0"
+    "styled-icons": "^9.4.0",
+    "styled-media-query": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
